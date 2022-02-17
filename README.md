@@ -8,7 +8,7 @@ Just install the package and your ready to programm the Thymio robot. (The proze
 
 ### Install ThymioSuite
 
-Downlad the latest package **thymiosuite-setup_xxxxxxx_all.deb** from https://github.com/basilstotz/thymiosuite-setup/releases and double click this file.
+Downlad the latest package **thymiosuite-setup_xxxxxxx_all.deb** from [here](https://github.com/basilstotz/thymiosuite-setup/releases) and double click this file.
 
 
 ### Build the package
