@@ -1,4 +1,4 @@
-#  Making the Installation of the ThymioSuite Easy 
+#  Easy ThymioSuite Installation  
 
 The installation process  (https://www.thymio.org/linux-installation) for the **ThymioSuite** on Linux is far too complicated for an average user. As a remedy comes this Debian package, which should work on any deb based distribution.
 
