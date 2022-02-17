@@ -6,7 +6,9 @@ The installation process  (https://www.thymio.org/linux-installation) for the **
 
 Just install the package and your ready to programm the Thymio robot. (The prozess might take a very long time. Be patient ...)  
 
- 
+### Install ThymioSuite
+
+Downlad the latest package from https://github.com/basilstotz/thymiosuite-setup/releases and double click this file.
 
 
 ### Build the package
