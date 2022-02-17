@@ -11,9 +11,11 @@ Just install this package **thymiosuite-setup_*_all.deb** and your ready to prog
 
 ### Build the package
 
+Note: You do not need to build this package, just take the one in this repo!
+
 ```
 $ git clone https://github.com/basilstotz/thymiosuite-setup.git
 $ cd tyhmiosuite-setup
 $ make
 ```
-Note: It is not a real Debian package, it's just an installer alike checkinstall.
+This is not a real Debian package, it's just an installer alike checkinstall.
