@@ -23,8 +23,10 @@ case "$1" in
 	rm -f /etc/flatpak/installations.d/thymio-suite.conf
 	rm -f /etc/udev/rules.d/99-mobsya.rules
 	rm -f /usr/local/bin/thymio-suite
-	rm -rf /opt/thymio-suite
+        rm -f /usr/share/applications/thymio-suite.desktop
 	
+	rm -rf /opt/thymio-suite
+        	
     ;;
 
     failed-upgrade)

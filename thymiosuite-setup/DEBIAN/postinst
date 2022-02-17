@@ -44,6 +44,21 @@ flatpak run --installation=thymio-suite org.mobsya.ThymioSuite
 EOF
         chmod +x /usr/local/bin/thymio-suite
 
+	cat <<EOF > /usr/share/applications/thymio-suite.desktop
+[Desktop Entry]
+Type=Application
+Name=Thymio Suite
+GenericName=Integrated Development Environment
+GenericName[fr]=Environnement de développement intégré
+GenericName[de]=Integrierte Entwicklungsumgebung
+GenericName[it]=Ambiente di sviluppo integrato
+GenericName[es]=Ambiente de desarrollo integrado
+GenericName[pt]=Ambiente de desenvolvimento integrado
+Exec=/usr/bin/flatpak run --installation=thymio-suite --branch=stable --arch=x86_64 --command=thymio-launcher org.mobsya.ThymioSuite
+Categories=Education;Science;
+Icon=/opt/thymiosuite/exports/share/icons/hicolor/256x256/apps/org.mobsya.ThymioSuite.png
+X-Flatpak=org.mobsya.ThymioSuite
+EOF
 	
     ;;
 
