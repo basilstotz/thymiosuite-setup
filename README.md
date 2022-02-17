@@ -11,7 +11,7 @@ Just install this package **thymiosuite-setup_*_all.deb** and your ready to prog
 
 ### Build the package
 
-Note: You do not need to build this package, just take the one in this repo!
+Note: You do not need to build this package, just take the one in https://github.com/basilstotz/thymiosuite-setup/releases
 
 ```
 $ git clone https://github.com/basilstotz/thymiosuite-setup.git
