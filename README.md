@@ -11,7 +11,7 @@ Download the latest release **thymiosuite-setup_xxxxxxx_all.deb** from [here](ht
 
 ### Build the package
 
-Note: You do not need to build this package, just take the latest release
+Note: You do not need to build this package, just take the latest [release](https://github.com/basilstotz/thymiosuite-setup/releases).
 
 ```
 $ git clone https://github.com/basilstotz/thymiosuite-setup.git
