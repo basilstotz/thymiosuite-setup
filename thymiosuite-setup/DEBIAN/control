@@ -1,0 +1,16 @@
+Source: thymiosuite-setup
+Section: unknown
+Priority: extra
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/blitzrechnen.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/blitzrechnen.git;a=summary
+Package: thymiosuite-setup
+Architecture: all
+Version: 1645091612 
+Depends: flatpak
+Description: Installs ThymioSuite
+ Installs ThymioSuite
+
