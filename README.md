@@ -18,8 +18,8 @@ Just install this package and you are ready to programm your Thymio robot.
 Note: You do not need to build the package, just take the latest [release](https://github.com/basilstotz/thymiosuite-setup/releases).
 
 ```
-$ git clone https://github.com/basilstotz/thymiosuite-setup.git
-$ cd tyhmiosuite-setup
-$ make
+git clone https://github.com/basilstotz/thymiosuite-setup.git
+cd tyhmiosuite-setup
+make
 ```
 What ironie: you need a deb to install a flatpak!
