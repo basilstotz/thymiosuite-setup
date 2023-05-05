@@ -4,7 +4,7 @@ The installation process  (https://www.thymio.org/linux-installation) for the **
 
 This package does not contain the Thymiosuite. This is only an installer which always installs the latest version of the Thymiosuite.
 
-Install the package and you are rehady to programm the Thymio robot. 
+Just install this package and you are ready to programm your Thymio robot. 
 
 ### Install
 
