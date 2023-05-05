@@ -12,6 +12,7 @@ Just install this package and you are ready to programm your Thymio robot.
 - Go to the place whare the file was downloaded.
 - Right click on the file --> Other Applications --> Software
 
+You need internet access while installing!
 
 ### Build
 
