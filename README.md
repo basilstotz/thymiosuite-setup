@@ -2,7 +2,9 @@
 
 The installation process  (https://www.thymio.org/linux-installation) for the **ThymioSuite** on Linux is far too complicated. As a remedy comes this installer, which should work on any deb based distribution (such as Debian/Ubuntu/Mint and derivates).
 
-Install the package and you are ready to programm the Thymio robot. 
+This package does not contain the Thymiosuite. This is only an installer which always installs the latest version of the Thymiosuite.
+
+Install the package and you are rehady to programm the Thymio robot. 
 
 ### Install
 
