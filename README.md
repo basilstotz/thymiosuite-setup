@@ -23,4 +23,4 @@ git clone https://github.com/basilstotz/thymiosuite-setup.git
 cd tyhmiosuite-setup
 make
 ```
-What ironie: you need a deb to install a flatpak!
+What irony: you need a deb to install a flatpak!
